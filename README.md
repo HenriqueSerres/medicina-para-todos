@@ -25,7 +25,7 @@ O site **Medicina para Todos** inclui as seguintes páginas:
 A estrutura de diretórios do projeto é organizada da seguinte forma:
 
 ```
-/projeto-raiz
+/medicina-para-todos
 |-- /css
 |   |-- styles-principal.css
 |   |-- /componentes
